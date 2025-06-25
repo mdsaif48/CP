@@ -16,25 +16,13 @@ int main() {
             if (x.find(s) != string::npos) {
                 cout << k << endl;
                 goto next;
-
       }
-
       x += x;
-
     }
-
-
-
     cout << -1 << endl;
-
     next:;
-
-  }
-
-
-
-  
-        }       
+}
+     }       
     }
     return 0;
 }
