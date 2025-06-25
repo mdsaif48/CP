@@ -1,3 +1,5 @@
+//this was my approach but it gave error in test 2 , trying to figure out the problem .
+// second approach is easier and more efficient .
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
