@@ -1,3 +1,4 @@
+//memory limit exceeding in this approach , have to check error , approach 2 works fine..
 #include <bits/stdc++.h>
 using namespace std;
 
